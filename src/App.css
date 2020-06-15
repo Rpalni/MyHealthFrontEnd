@@ -1,0 +1,13 @@
+
+.nav li 
+{
+    display:inline;
+}
+.horizontal{
+    display: inline;
+}
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
